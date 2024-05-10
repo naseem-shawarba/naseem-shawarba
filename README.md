@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m Naseem Shawarba <br>
-👀 I am a software developer<br>
-🌱 I’m currently learning a bit of everything<br>
-💬 Ask me about anything, especially as long as its about web dev or JS/TS in particular<br>
+👋 Hi, I’m Naseem Shawarba. <br>
+👀 I am a software developer.<br>
+🌱 I’m currently learning a bit of everything.<br>
+💬 Ask me about anything, especially as long as its about web dev or JS/TS in particular.<br>
 👯 I am interested in partnering on building beautiful interfaces, web apps, mobile app and everything in between! <br>
-📫 If you think we might be a good fit for one another, you can reach me on [LinkedIn](https://www.linkedin.com/in/naseem-shawarba/)<br>
+📫 If you think we might be a good fit for one another, you can reach me on [LinkedIn](https://www.linkedin.com/in/naseem-shawarba/).<br>
 
 
 # 💻 Tech Stack:
