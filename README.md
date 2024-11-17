@@ -41,7 +41,12 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=naseem-shawarba&theme=dark&hide_border=false)
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naseem-shawarba&theme=dark&hide_border=false" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naseem-shawarba&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="190" />
+</div>
+
 
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
