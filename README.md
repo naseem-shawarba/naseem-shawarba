@@ -43,7 +43,8 @@
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naseem-shawarba&theme=dark&hide_border=false" alt="GitHub Streak" height="190" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naseem-shawarba&theme=dark&hide_border=false" alt="GitHub Streak" height="190" />
+   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naseem-shawarba&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="190" />
 </div>
 
